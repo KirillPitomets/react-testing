@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test APP should renders hello developer 1`] = `
+<input
+  placeholder="User name"
+  type="text"
+/>
+`;
